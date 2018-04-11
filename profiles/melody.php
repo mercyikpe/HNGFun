@@ -32,7 +32,7 @@ $time = date('G:i');
             line-height: 60px;
             font-size: 18px;
             text-align: center;
-            color: #FFFFFF;
+            color: #000;
         }
         span {
             display: inline-block;
